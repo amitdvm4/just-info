@@ -1,0 +1,169 @@
+https://www.udemy.com/course/full-stack/?password=FULLSTACKCOURSE
+
+Master Full-Stack Web Development | Node, SQL, React, & More
+
+full mern stack with project
+
+
+
+
+
+Requirements
+Some coding experience is required for this course. This course is not an intro to programming. It’s best taken after one or two intro to programming courses have already been completed.
+Node, PostgreSQL, React, and Redux experience is NOT required. All of these concepts will be explained from the beginning.
+JavaScript experience is recommended. This course will introduce JavaScript and explain every line. However, once a keyword has been introduced, the course assumes that you are familiar with the concept. The focus is on full-stack concepts, and not learning JavaScript for the first time. If this is your first time learning JavaScript, view the pace of the course as a great way to see all the different aspects of the language.
+Some experience on the command line is recommended, but not absolutely required. This course does have a short refresher on command line principles, and we’ll only use the basics. But the more comfortable you are on the command line, the better.
+Description
+Why should you take this course?
+
+
+
+With five minutes, allow me to explain why.
+
+
+
+This is the course that I needed before becoming a software engineer
+
+This is the course that I needed before becoming a full-time software engineer, working downtown in San Francisco. It teaches the concepts that I put into practice every day. It's crucial to understand the entire full-stack.
+
+But while I was self-learning, covering every layer full-stack was like searching for distant fragments of a huge puzzle. All the resources were spread out. They were all in different locations.
+
+I needed it all in one place. I needed it to be all in one project. That is the purpose of this course.
+
+This course is the selected highlights of months (years actually) of research. Of reading hundreds of coding articles. Of listening to tech talks. Of building projects at hackathons. Of studying computer science in college. Of working on projects as a software engineer.
+
+All in one place. In one all-encompassing project.
+
+
+
+Feature-focused, like the Industry
+
+The project in this course mirrors projects that you would work on in the industry.
+
+I also structured the project development to mirror how apps are built in the industry. You will evolve your full-stack project, just like how projects in the real world grow. You will be feature-focused.
+
+You’ll build the project one feature at a time - continually improving the software and shipping to the users.  This is distinct from other courses that are architecture-focused. Meaning, you won’t build the entire backend, and then move on to the entire frontend. Instead, each new feature will involve every aspect of the full-stack architecture.
+
+
+
+The DragonStack Project
+
+What is the DragonStack Project?
+
+The Dragonstack Project is a multi-account collector’s application for gathering dragons. You can trade, purchase, and breed your dragons! By selling dragons, you earn currency. Or if another account uses your dragon for its mating services, you also get currency. Each dragon has unique traits, and belongs to a specific generation.
+
+This app is different. It's not a Facebook, nor Twitter clone. Now, the core of the architecture is the same. Behind those larger apps like Facebook and Twitter, are the concepts you'll learn in this course. But you'll use those concepts to create something unique. If you're already investing the time to learn the full stack, I want you to make something no else has made before. That way, you'll learn how to apply these concepts to innovate.
+
+
+
+From Scratch
+
+In this course, you will build everything from scratch. You will take over every layer of the full-stack. You won’t use any separate APIs for the features.
+
+1. You’ll build the API. Sure, you can learn about web requests by consuming a public API. But in order to fully learn how these web requests APIs work, you need to build one yourself.
+
+2. You'll be in full control over the database. You won't rely on a library to do manage the database for you. You won't treat the database like magic. No, you'll have full control, and generate the SQL yourself.
+
+3. You'll build the authentication system. Authentication is an easy step to skip while learning. Don't. It's a critical concept to understand. 99% of the applications you make, or work on, will have an account base.
+
+This from scratch is the core philosophy of the course. In addition to building the APIs from scratch, you’ll create the full backend. This will include the server, and core database files. Plus, you’ll build the full frontend, with the modern and very widely used React library.
+
+
+
+The Full Picture Grounded with a Conceptual Understanding
+
+As you work with new technologies, it is essential that you see the full picture. Therefore, in this course, you will learn more than just how to code in Node.js, PostgreSQL, React, and Redux. On top of that, you will gain an understanding of the design, models, and ideas behind these technologies. You’ll learn exactly how companies apply these technologies to their problems. With a foundational understanding of the concepts, you will be able to see how each layer fits together in the full-stack
+
+
+
+Practical Experience
+
+Just because this course places a large emphasis on concepts, does not mean you won’t dive into the code as soon as possible. This course also focuses on practical experience. After all, the concepts are only reinforced when you actually apply them and build the software!
+
+By the end of the course, you’ll have so much experience working with the technologies. I have no doubt that you’ll be able to confidently add Node.js, PostgreSQL, React, and Redux to your resume. Plus, you’ll have an impressive full-stack project in your portfolio to prove it.
+
+Not to mention, you can do many of the final course challenges to make your course project the most unique and advanced one around.
+
+
+
+Course Challenges
+
+Littered throughout the course are challenges. This is not the kind of course where you’ll be blindly following along the entire time. These challenges will give you the chance to implement the next feature yourself - reinforcing your knowledge, guided by your own experience.
+
+As mentioned, there is also a list of final course challenges. These go beyond the scope of the course. But these are the ones that will make your project truly stand out.
+
+
+
+Simplicity
+
+On top of teaching full-stack web development and its core technologies, the overarching emphasis of this course is building code with simplicity. No matter what technology we code in, we will ensure to design our classes and build our functions in a simple way.
+
+Now simple does not mean easy. Easy means to lie near. Just because something is easy and immediate does not mean it's right. Sometimes, the easy solution is actually a shortcut that will require even more work to fix later.
+
+Our definition of simplicity is singularity. Simplicity in this course means to be one-fold. As much as possible, we will make our functions simple, one-fold, and singular in purpose. We don’t want our functions to have an overwhelming number of side effects that introduce unneeded complexity into our application.
+
+
+
+Scalability
+
+Simplicity is the prerequisite to scalability. Because you'll code the functions in a simple  way, you will find that you’ll be able to quickly add new features to the application. The upfront cost of carving out the most simple design pays huge dividends for scalability.
+
+
+
+Progress in Dragonstack
+
+Your progress with the dragonstack project will follow an exponential curve. Throughout the course, graphs will show your progress on this course. There will be an initial ramp-up period. However, once you make it past the hump, your pace will skyrocket. Stay determined to get that momentum going. It's one of the best feelings when you're riding that freeway of productivity.
+
+
+
+Other Details:
+
+Promo Music Credits
+
+"Slow Motion" by Ben Sound.
+
+Redux Broken Down
+
+Redux can be a very complex concept to handle with frontend development and React. This course boils down Redux, and explains it a low level. We won’t look at Redux as some magic library that just solves all of our state problems. No, this course is going to fully dive into Redux. We’ll experiment with its functions, examine its parameters, and even consider the overall design decisions of the library.
+
+Promises!
+
+JavaScript Promises that is! Promises will play a huge role in the backend of this course. So if you were looking for a good excuse to learn how JavaScript promises work, then this is the perfect project for you! I promise…
+
+Names
+
+This course might spend more time than others discussing names. Some may say variable naming is arbitrary: “just give something a short and clear name and be done with it...” To that, I wholeheartedly disagree! Naming is one of the most important parts of software. Getting the name right can be the sole difference between smoothly flowing through understanding a codebase, and spending minutes or even hours trying to understand how functions work together.
+
+Timely Delivery
+
+Since Udemy allows students to speed up lectures, I’ll talk through the lectures in a timely manner that will be understandable at all speeds. Change the speed as you wish.
+
+
+
+Who this course is for:
+Anyone with some programming experience, that wants to learn what it takes to make a full-stack application.
+Students who have learned React, but have yet to build a full-stack project.
+Those who have backend experience, but also want frontend experience. Same for frontend engineers, who want backend experience.
+Students who know a little bit of Node, PostgreSQL, React, and/or Redux, but still haven’t put all of these concepts together.
+
+
+
+
+
+
+
+
+
+
+
+
+
+What you'll learn
+Build a backend server and application with Node.
+Build a web API with Node and Express.
+Build a web application with React and Redux.
+Build a secure authentication system from scratch.
+Understand NodeJS under the hood, including the V8 engine and the famous event loop.
+Understand relational database design and its advantages.
+Understand essential web development concepts like web requests, client-server relationships, and the core web protocols.
+Know the tradeoffs between certain software naming practices for functions and table names in the database.

@@ -1,0 +1,287 @@
+Accelerated ES6 JavaScript Training
+https://www.udemy.com/course/es6-bootcamp-next-generation-javascript/
+
+
+
+
+Server Side Rendering with React and Redux
+
+https://www.udemy.com/course/server-side-rendering-with-react-and-redux/
+
+
+Node JS: Advanced Concepts
+https://www.udemy.com/course/advanced-node-for-developers/
+
+
+
+
+
+Build an app with React, Redux and Firestore from scratch
+
+https://www.udemy.com/course/build-an-app-with-react-redux-and-firestore-from-scratch/
+
+
+Complete React Hooks Course 2019: A - Z ( Scratch to React )
+
+
+https://www.udemy.com/course/react-hooks-course/
+
+
+React JS and Redux Bootcamp - Master React Web Development
+
+https://www.udemy.com/course/react-redux-bootcamp/
+
+
+
+
+
+jira 
+
+https://id.atlassian.com/login?
+
+
+
+
+amitdvm2@GMAIL.COM
+amit1234
+
+
+
+
+Master Full-Stack Web Development | Node, SQL, React, & More
+https://www.udemy.com/course/full-stack/?password=FULLSTACKCOURSE
+
+
+
+React Node FullStack - Ecommerce from Scratch to Deployment
+https://www.udemy.com/course/react-node-ecommerce/
+
+
+
+
+What you'll learn
+Learn Node JS API (Backend) Development
+Learn React JS (Frontend) Web Development
+Learn to Write Functional Components with React Hooks
+Learn the Fundamental Concepts of Building Ecommerce Application
+Learn to Implement Payment Gateway using Credit Card and PayPal
+Learn to Integrate Braintree (A PayPal Company) for Payment Processing
+Learn to Implement Advance Searching/Filtering based on Categories
+Learn to Implement Advance Searching/Filtering based on Price Range
+Learn to Implement Standard Products Search System with Categories option/dropdown
+Learn to Build Shopping Cart
+Learn to Implement Authentication based on JWT
+Learn to Build Scalable React App with Proper Layouts and Routes
+Learn to build Admin and User Dashboard
+Learn to Implement Flexible Private and Admin Routing System
+Learn advance CRUD with Products and Categories
+Learn to handle File Upload
+Learn to use LocalStorage (CRUD) to Minimize Requests to Backend
+Learn to Store Sold Products Record into the Database for Further Processing
+User Profile and Update Ability
+Learn to implement Order Management System by Admin
+Learn to Deploy your app to Digital Ocean's Cloud Servers
+Learn to add a Custom Domain name to your app
+Learn to use Cloudflare's CDN to serve your app (for speed)
+Learn to use Cloudflare's free SSL to secure your app
+
+
+
+
+
+Node.js: The Complete Guide to Build RESTful APIs (2018)
+https://www.udemy.com/course/nodejs-master-class/
+
+
+
+What you'll learn
+Build the backend for your web and mobile apps
+Use modern JavaScript features (ES6, ES7)
+Implement CRUD operations
+Handle and log errors, the right way
+Write unit and integration tests
+Practice test-driven development (TDD)
+Store and retrieve complex data in MongoDB
+Implement authentication and authorization
+Deploy your Node apps to production
+Apply the best practices for building fast, scalable and secure apps
+
+
+
+
+
+
+
+
+The Modern GraphQL Bootcamp (with Node.js and Apollo)
+https://www.udemy.com/course/graphql-bootcamp/
+
+
+
+
+
+
+
+ES6, ES7 & ES8, TIME to update your JavaScript / ECMAScript!
+https://www.udemy.com/course/es6-es7-and-es8-its-time-to-update-your-javascript/
+
+
+
+
+Just Express (with a bunch of node and http). In detail.
+https://www.udemy.com/course/just-express-with-a-bunch-of-node-and-http-in-detail/
+
+
+
+
+
+
+
+The Complete JavaScript Course 2019: Build Real Projects!
+https://www.udemy.com/course/the-complete-javascript-course/
+
+
+
+The Complete jQuery Course: From Beginner To Advanced!
+https://www.udemy.com/course/jquery-tutorial/
+
+
+jQuery UI in Action: Build 9 jQuery UI Projects
+https://www.udemy.com/course/jquery-ui-practical-build-jquery-ui-projects/
+
+
+Modern HTML & CSS From The Beginning (Including Sass)
+https://www.udemy.com/course/modern-html-css-from-the-beginning/
+
+
+
+Materialize CSS From Scratch With 5 Projects
+https://www.udemy.com/course/materialize-css-from-scratch-with-5-projects/
+
+
+
+Angular Front To Back
+https://www.udemy.com/course/angular-4-front-to-back/
+
+
+
+
+
+Modern HTML & CSS From The Beginning (Including Sass)
+https://www.udemy.com/course/modern-html-css-from-the-beginning/
+
+
+
+
+
+HTML5 Mastery—Build Superior Websites & Mobile Apps NEW 2019
+https://www.udemy.com/course/html5-mastery-mobile-apps-websites/
+
+
+PSD to Responsive HTML5: Beginner to Advanced
+https://www.udemy.com/course/psd-to-html5-beginner-to-advanced/
+
+
+
+
+
+
+
+Build Responsive Real World Websites with HTML5 and CSS3
+
+https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/
+
+
+
+Javascript Intermediate level 1 - Mastering the DOM
+https://www.udemy.com/course/javascript-intermediate-mastering-the-dom/
+
+
+
+
+
+
+Dynamic JavaScript Master Class AJAX JSON Simple APIs
+https://www.udemy.com/course/ajax-course/
+
+
+
+
+
+GitHub Ultimate: Master Git and GitHub - Beginner to Expert
+
+
+https://www.udemy.com/course/github-ultimate/
+
+
+
+
+
+
+Git & GitHub Complete Masterclass : Beginner to Git Expert
+https://www.udemy.com/course/git-basic-concept-fundamentals-github/
+
+
+
+
+
+The Web Developer Bootcamp
+https://www.udemy.com/course/the-web-developer-bootcamp/
+
+
+
+
+
+
+Javascript Tutorial and Projects Course
+https://www.udemy.com/course/javascript-tutorial-for-beginners-w/
+
+
+
+
+
+
+JavaScript Bible - JavaScript and ES6 Bootcamp 2019
+https://www.udemy.com/course/javascript-bible/
+
+
+
+
+
+JavaScript Infrastructure: CLI, NPM, Babel 7 and Webpack 4
+https://www.udemy.com/course/2019-js-infrastructure-course-npm-babel-7-webpack-4/
+
+
+
+
+React js. From the beginning. w/ Redux and React Router
+https://www.udemy.com/course/react-js-from-the-beginning-w-redux-and-react-router/
+
+
+
+Gatsby Tutorial and Projects Course
+https://www.udemy.com/course/gatsby-tutorial-and-projects-course/
+
+
+
+
+Learn Jenkins from a DevOps Guru
+https://www.udemy.com/course/jenkins-devops-pipeline-as-code/
+
+
+
+https://www.udemy.com/course/jenkins-devops-pipeline-as-code/
+
+
+
+
+Asynchronous JavaScript: Promises, Callbacks, Async Await
+https://www.udemy.com/course/asynchronous-javascript-promises-callbacks-async-await/f2a
+
+
+
+
+
+
+How to Learn Fullstack Development: A Roadmap in Charts
+https://medium.com/@dtkatz/how-to-learn-fullstack-development-a-roadmap-in-charts-9b9e4aac400f

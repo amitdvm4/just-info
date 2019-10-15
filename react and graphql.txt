@@ -1,0 +1,80 @@
+Build a Realtime App with React Hooks and GraphQL
+
+
+
+What you'll learn
+Building practical, feature-rich apps with React Hooks and GraphQL
+Managing state in real-world apps with React Hooks
+How to build fullstack apps with React Hooks and GraphQL
+Integrating GraphQL client / server libraries with React Hooks
+
+
+
+
+
+https://www.udemy.com/course/build-a-realtime-app-with-react-hooks-and-graphql/
+
+
+
+
+
+
+Requirements
+Basic understanding of React / React Hooks (i.e. having taken my React Hooks course)
+Familiarity with GraphQL
+Description
+Want to build real-world, full-stack apps with React Hooks? Look no further than this course.
+
+### WHAT WILL WE BE BUILDING? ###
+
+A realtime, full-stack React app from scratch with a GraphQL Server (Apollo Server 2) on the backend, a cloud MongoDB database (Mongo Atlas) with React Hooks to manage our state (replacing Redux!), with Social Authentication (Google OAuth2), realtime data with GraphQL Subscriptions, image uploads with Cloudinary and much more.
+
+Our app will be a live geolocation app called GeoPins where users can 'pin' different locations on the map and share their own content with other users in realtime--to share pictures, reviews of the location and area, interact with other users by adding comments to their pins, and manage the pins they've created.
+
+### WHAT CONCEPTS WILL IT COVER? ###
+
+How to build a robust GraphQL Server with Authentication (with Apollo Server 2)
+
+How to use two GraphQL client libraries in-depth--Apollo Client and GraphQL Request
+
+Replacing Redux with the useContext and useReducer Hooks for global state management
+
+All the major concepts within GraphQL: Queries, Mutations, Subscriptions, TypeDefs, Resolvers, Inputs, etc
+
+All the major hooks (useState, useEffect, useContext, useReducer)
+
+Building Custom Hooks to 'hook in' to additional functionality to your applications
+
+Integrating Social Login (Google OAuth) with Apollo Server 2
+
+Display App Changes in Realtime with GraphQL Subscriptions
+
+Dynamic image uploads using the Cloudinary API
+
+MongoDB in the cloud with MongoDB Atlas
+
+Using Mongoose to create models, CRUD and search operations, and population
+
+Making attractive apps with the Material UI component library and Material UI Icons
+
+The Material UI 'useMediaQuery' Hook for dead-simple mobile / responsive design
+
+Develop stunning map applications with the Mapbox API and ReactMapGL
+
+Use the Geolocation API to get Users' Current Location
+
+Create Route Guards / Protected Routes with React Router v4
+
+Essential authentication / authorization concepts within GraphQL / Apollo
+
+Error handling on our server and in our React client
+
+Async / await functions along with tons of ES6 / ES7 concepts
+
+Deployment with Heroku and Now v2
+
+And tons more!
+
+Who this course is for:
+React / JavaScript developers wanting to learn cutting-edge development tools and techniques
+Developers looking to build complete real-world JavaScript applications

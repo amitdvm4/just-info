@@ -1,0 +1,100 @@
+React Hooks Tutorial - Master React Hooks Development
+
+https://www.udemy.com/course/react-hooks-tutorial/
+
+
+
+What you'll learn
+How to code with React hooks: useState, useEffect, useReducer, useContext, and more.
+An understanding of why React hooks were introduced.
+A knowledge of how React hooks works under the hood at the React engine and runtime layer.
+A grasp of how React hooks fits the mental model of React better than other patterns.
+How to set up data fetching with the React hooks pattern.
+How to build complete React applications using hooks.
+
+
+
+
+Requirements
+Some experience with React will help. This course dives into React hooks right away, and might feel fast-paced for newcomers to React.
+Familiarity with JavaScript.
+Command line experience.
+
+
+
+
+Great course. It's 5 months old so now hooks have been officially released in react. I'm also using typescript, so there's some additional typing to be done, but it's working out fine. I setup the app using yarn create react-app my-app --typescript instead of the 
+
+
+instructions here.
+
+
+
+Description
+You should take this course if you want to learn about React Hooks in a time-efficient and thorough way.
+
+
+
+What are React Hooks?
+
+React hooks are the largest update to React since its inception.
+
+Hooks are a way for function components to “hook” into React functionality. Previously, when you wanted React components to have state or side effects, you needed to extend the base React Component class. Now, function components need only to apply a hook to gain this functionality.
+
+
+
+Should I care about hooks?
+
+As a web and React developer, and software engineer, you should definitely care about React hooks. This feature is the future of React. Since the feature is still so new, learning React hooks will set you apart as a web developer and engineer.
+
+
+
+*****
+
+When I first started exploring hooks, I was pleasantly surprised at the simplicity of the API. I was expecting to need a huge mental shift. But as I continued to create new components with hooks, I started to see the power of the new paradigm. If anything, I find React even more elegant than I did before!
+
+
+
+*****
+
+In this course, you’ll learn what hooks are, how they work, and why they’re so exciting. Here’s the course journey:
+
+Dive into React hooks right away. You’ll gain relevant experience as soon as the first section. Time is a precious resource. And I want to make sure you feel like you’re spending your time wisely with this course. So in a matter of minutes, you will be writing React hooks code by building an application.
+
+Build an interesting React app to explore hooks. The first project of the course is an application called Home. Home can serve as the home page of your browser. It has a bunch of useful widgets like a custom search bar, a photo gallery, a list of the latest hacker news, and more. It has a variety of use cases that will cover the essentials of React hooks.
+
+Understand coding hurdles with hooks. When learning hooks, like any new technology, it will require a little bit of a mental shift. There’s a few coding hurdles to get through, and this course will show the right way to approach those situations.
+
+Learn how hooks work under the hood. It’s not necessary to deep dive into the React engine to code with hooks. But it’s extremely helpful to explore how React works underneath the surface layer. So this course is going to dig deeper and give you that under the hood perspective of React with hooks.
+
+Explore interesting cases with JavaScript and hooks. Hooks have a simple API. You call them as functions. But their behavior may not always align with your expectations as a JavaScript developer. In this course, you’ll cover a handful of interesting cases that appear when you try to jive hooks with JavaScript functionality.
+
+Look at the big picture and answer the question of why. Why were hooks introduced to React - an already well established framework? Throughout the course, you’ll get the answer in tidbits throughout various videos. In addition, there will be a section completely devoted to answering this more thoroughly.
+
+Build a project to master hooks. The second project in the course is an app called Reaction. This multi-user application allows people to share messages and react to them with emojis. The intent of the project is to give you the chance to both master previous material, and learn more advanced concepts with out of the box hooks.
+
+
+
+*****
+
+In summary, you should take this course if you want to learn React Hooks in a time-efficient way, while building relevant and engaging projects. Again, even if you only complete the preview content, you’ll walk away with a lot of valuable lessons learned.
+
+See you there!
+
+
+
+*****
+
+Promo music provided by Ben Sound.
+
+Who this course is for:
+Those interested in the new React hooks feature.
+Any current React developer or frontend and/or fullstack software engineer.
+Anyone who wants to learn modern practices in web development.
+
+
+
+
+
+
+Great course. It's 5 months old so now hooks have been officially released in react. I'm also using typescript, so there's some additional typing to be done, but it's working out fine. I setup the app using yarn create react-app my-app --typescript instead of the instructions here.

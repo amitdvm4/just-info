@@ -1,0 +1,50 @@
+https://www.udemy.com/course/javascript-bootcamp-2016/
+
+
+
+Accelerated JavaScript Training
+
+
+
+What you'll learn
+Use JavaScript to write modern, reactive Websites
+Understand how JavaScript works and how to use its many advantages
+Dive into JavaScript Libraries like jQuery or Frameworks like Angular 2 or React
+
+
+
+
+Description
+Learn one of the most important Languages in Web Development - from scratch in a fast-paced fashion!
+
+JavaScript is one of the most important parts of every modern, reactive, user-friendly Web Pages or Applications. Despite that fact, you might yourself know many tutorials which leave you with a lot of open questions or are good, but also a couple of years old!
+
+Hands-on, Example-driven Course
+
+Join this course to receive a hands-on, example-driven JavaScript Bootcamp, which will guide you through the amazing language of JavaScript. Beginning at the very basics, we will walk through the various characteristics and features, JavaScript offers.
+
+Experienced Instructor
+
+As a freelance web developer I use JavaScript a lot but I know that using it doesn't necessarily qualify you to teach it well. That's why I'm also proud to host three 5-star rated courses here on Udemy as well as a successful learning YouTube channel.
+
+I not only offer high quality videos and examples, I'm also there to help whenever you're facing problems or do have open questions. Indeed, telling by the reviews of my other courses, I offer one of the best support services you will find on Udemy!
+
+Pay once, benefit a Lifetime!
+
+It's best to have a look at the course content, to find out what you will learn - but to give you a quick overview:
+
+All the basics about variables, functions, operators, language features, built-in objects and much more!
+
+In-depth modules on Arrays, Objects & Prototypes, Functions, DOM Interaction, Events, AJAX and all the other core features that make JavaScript so important!
+
+Hundreds of examples, showing all the concepts taught, allowing you to see them in action immediately
+
+A complete project to practice the skills gained throughout this course
+
+World-class support in case of any course-related questions or problems
+
+
+
+Who this course is for:
+This course is meant for students who never touched JavaScript before or everyone interested into refreshing knowledge about specific topics
+No prior JavaScript knowledge is required, though you may very well use this course to simply train your skills and practice with JavaScript if you already have some basic experience
