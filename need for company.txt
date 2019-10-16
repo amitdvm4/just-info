@@ -1,0 +1,152 @@
+Youll fit if :
+
+-You are Passionate about Coding
+-You feel restless if you dont code every day
+-You can ship production-ready code
+-Youve learned new things in the last 6 months Just for the heck of it
+-It bothers you when someone says This cant be done
+
+What we offer
+
+-Work on the latest Tech Stack for (Cassandra, Elastic Search, Kafka, Redis and more)
+-Highly automated Dev ops process so that our developers can focus on thinking and building amazing features.
+-Flexibility to Work from Anywhere. If you have an internet connection and show up for scrum every day, you can work from anywhere. Office. Home. Another City. Your choice. Really.
+-Solve tough problems and build a world-class product
+-Fun hiring Process: We dont do interviews in stuffy rooms. We will ask you to code for any cool, quirky, funny, or sometimes silly problems that come to our minds.
+-All of this works only if you love to code.
+
+We will NOT evaluate you on
+
+-Which school or college you studied at or what education degree you have
+-Which technology you worked on in the past
+-The number of years of experience you have (This might bother you more than us)
+-The city you live in
+
+We will evaluate you on
+
+-How quickly and deeply you learn new things. On your own.
+-Clarity of thought
+-Your coding skills
+-Sense of purpose
+
+
+
+
+
+
+
+
+
+
+
+Job description
+Requirements
+Deep understanding of client-side development, hand-coding in HTML5, CSS3, JavaScript ES6, and jQuery.
+Strong experience using a client-side MV* framework such as NodeJs, ReactJS, NextJs, Redux and AngularJS.
+Top-notch programming skills and write code for robust software design.
+Experience in responsive design, cross-browser compatibility and website performance.
+Knowledge of front-end CSS frameworks like Bootstrap, Material UI and preprocessors like SASS and LESS.
+Experience in object-oriented design skills.
+Aggressive problem diagnosis and creative problem solving skills.
+Experience using web build tools, such as Webpack and Babel.
+Good understanding of how browsers and DOM work.
+Experience with Git.
+Experience with handling Services, RESTful, APIs.
+Produce high-quality software utilizing automated unit and integration testing.
+Solid understanding of how web applications work including OWASP, XSRF, Security, Session management and best development practices.
+Good leadership skills, proactive, motivated and able to work in teams.
+Excellent interpersonal, written communication skills and verbal agility.
+
+Nice to have:
+Expertise with Service Oriented Architecture (SOA) principles and have used them in practice.
+Experience developing for high-volume web applications.
+Micro service architecture and practices.
+REST service development and methodologies.
+Basic knowledge of Search Engine Optimization process
+Experience with the integration of third-party (licensed or open-source) e-commerce solutions.
+Experience in Cloud-based technologies such as AWS, Google Cloud, or Azure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Job description
+Job Responsibilities :
+
+- Development of node based applications/modules.
+
+- Understand requirements and map to technical implementation.
+
+- Design and implementation of low-latency, high-availability, and performance applications.
+
+- Designing and building a highly scalable system from the ground up that can support high amounts of concurrent users interacting on the platform.
+
+- Developing and delivering well architected, elegant web services.
+
+- Integration of user-facing elements developed by front-end developers with server side logic.
+
+- Integration of multiple data sources and databases into one system.
+
+- Performing system analysis, code modifications, and functional testing to troubleshoot application production issues.
+
+- Participating in all aspects of agile software development -- design, implementation, and deployment.
+Required Candidate profile
+
+Requirements :
+
+- Knowledge of Node.js and frameworks available for it ( such as Express, StrongLoop, SailsJS, etc).
+
+- Should have knowledge on API development using Node.Js . Expertise in object-oriented JavaScript.
+
+- Basic understanding of front-end technologies, such as HTML5 and CSS3.
+
+- Deep knowledge of HTTP and REST. Experience writing JavaScript for Node.js.
+
+- Knowledge of Advanced SQL concepts.
+
+- Experience with at least one JavaScript framework such as Angular, React, Bootstrap, Ember, Backbone, etc.
+
+
+- Strong OOPs fundamentals, PHP, MySQL, MongoDB, client-server architecture understanding.
+
+
+- Experience with source version control systems (GIT or BitBucket).
+
+- Understanding Web accessibility and security compliance.
+
+- Understanding fundamental design principles behind a scalable application.
+
+- Knowledge of Testing framework such as Jest, Jasmine, Mocha, chai, etc.
+
+Skills :
+
+- HTML
+- CSS
+- Javascript, with knowledge of ES6
+- Jquery
+- JSON, RESTFUL API- s
+- MongoDB and other RDBMS systems like Postgres, MySQL
+- Express
+- Angular (2.x +) (Preferred)
+- NodeJs
+- Knowledge in other Frontend frameworks like VueJs, React, Ember, Knockout is preferred.
+- GIT or any Source version control systems
